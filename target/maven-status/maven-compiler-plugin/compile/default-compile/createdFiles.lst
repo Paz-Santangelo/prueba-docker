@@ -2,6 +2,7 @@ com\pruebaDeLuigi\security\jwt\JwtProvider.class
 com\pruebaDeLuigi\security\entity\Usuario.class
 com\pruebaDeLuigi\security\repository\RolRepository.class
 com\pruebaDeLuigi\security\repository\UsuarioRepository.class
+com\pruebaDeLuigi\WebConfig.class
 com\pruebaDeLuigi\PruebaApplication.class
 com\pruebaDeLuigi\security\service\UsuarioService.class
 com\pruebaDeLuigi\service\ProductoService.class
